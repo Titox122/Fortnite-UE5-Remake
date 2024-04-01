@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FortniteGame",
+			"Path": "..\\Source\\FortniteGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FortniteGameEditor",
+			"Path": "..\\Source\\FortniteGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

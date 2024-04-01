@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\fortnitegame\\uht\\fortnitegame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\intermediate\\build\\win64\\x64\\fortnitegameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fortnitegame\\definitions.fortnitegame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

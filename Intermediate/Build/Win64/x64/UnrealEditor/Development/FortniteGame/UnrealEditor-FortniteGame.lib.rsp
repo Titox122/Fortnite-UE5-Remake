@@ -1,0 +1,41 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FortniteGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\FortniteGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\AthenaGameMode.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\BaseBuildingStaticMeshComponent.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortItem.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortItemDefinition.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortMannequinTest.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortniteGame.init.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortPawn.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortPlayerPawn.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortStaticMeshActor.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeapon.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeaponAnimSet.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeaponRangedItemDefinition.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWorldSettings.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\littleTrolling.gen.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortniteGame.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\AthenaGameMode.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\BaseBuildingStaticMeshComponent.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\EFortWeaponReloadType.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortItem.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortItemDefinition.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortMannequinTest.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortPawn.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortPlayerPawn.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortStaticMeshActor.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeapon.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeaponAnimSet.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeaponRangedItemDefinition.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWeaponReloadType.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\FortWorldSettings.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\littleTrolling.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\Default.rc2.res"
+/OUT:"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\UnrealEditor-FortniteGame.lib"

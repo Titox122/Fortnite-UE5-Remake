@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\source\\fortnitegame\\private\\fortitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\intermediate\\build\\win64\\x64\\fortnitegameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fortnitegame\\definitions.fortnitegame.h",
+            "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\source\\fortnitegame\\public\\fortitem.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\sonic\\documents\\unreal projects\\fortnitegame-remake-ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\fortnitegame\\uht\\fortitem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\sonic\\Documents\\Unreal Projects\\FortniteGame-Remake-UE5\\Source\\FortniteGame\\FortniteGame.Build.cs",
+		"C:\\Users\\sonic\\Documents\\Unreal Projects\\FortniteGame-Remake-UE5\\Source\\FortniteGame.Target.cs",
+		"C:\\Users\\sonic\\Documents\\Unreal Projects\\FortniteGame-Remake-UE5\\Source\\FortniteGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

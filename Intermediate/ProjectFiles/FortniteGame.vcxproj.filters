@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FortniteGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FortniteGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FortniteGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FortniteGame">
+      <UniqueIdentifier>{2143BCED-E58B-3BCE-BC0A-64F5C4160877}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FortniteGame\FortniteGame.Build.cs">
+      <Filter>Source\FortniteGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FortniteGame\FortniteGame.cpp">
+      <Filter>Source\FortniteGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FortniteGame\FortniteGame.h">
+      <Filter>Source\FortniteGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\FortniteGame\Private">
+      <UniqueIdentifier>{38A34E64-66D8-391C-8BA4-5BD7F30D13BC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\AthenaGameMode.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\BaseBuildingStaticMeshComponent.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\EFortWeaponReloadType.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortBaseWeaponStats.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortItem.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortItemDefinition.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortMannequinTest.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortPawn.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortPlayerPawn.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortStaticMeshActor.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortWeapon.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortWeaponAnimSet.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortWeaponRangedItemDefinition.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortWeaponReloadType.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\FortWorldSettings.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FortniteGame\Private\littleTrolling.cpp">
+      <Filter>Source\FortniteGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\FortniteGame\Public">
+      <UniqueIdentifier>{3D072AE0-2251-3F6B-AA6A-D108F83D74CB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\AthenaGameMode.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\BaseBuildingStaticMeshComponent.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FortniteGame\Public\desktop.ini">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\EFortWeaponReloadType.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortBaseWeaponStats.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortItem.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortItemDefinition.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortMannequinTest.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortPawn.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortPlayerPawn.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortStaticMeshActor.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortWeapon.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortWeaponAnimSet.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortWeaponRangedItemDefinition.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortWeaponReloadType.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\FortWorldSettings.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\FortniteGame\Public\littleTrolling.h">
+      <Filter>Source\FortniteGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

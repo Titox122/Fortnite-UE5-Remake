@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FortniteGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\FortniteGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\Module.FortniteGame.cpp.obj"
+"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\Default.rc2.res"
+/OUT:"C:\Users\sonic\Documents\Unreal Projects\FortniteGame-Remake-UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortniteGame\UnrealEditor-FortniteGame.lib"
