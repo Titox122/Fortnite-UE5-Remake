@@ -5,6 +5,10 @@
 ### What Is This?
 Its a Fortnite UE5 Remake
 
+### if i use this i have to add credits?
+yeah please if you use this project credit me with this
+"Original Template Creator Project164"
+
 # What Ue Version i have to use?
 UE5.3.2
 
