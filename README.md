@@ -14,10 +14,11 @@ TheBuff-Help With Some Stuff
 
 German's Project-Help With Some Stuff
 
-Dj-Andre-CharacterDirectior Variable
+Dj-Andre-Character Direction Variable
 
 Vortex-Help With Uefn Patch
 
+Jaum-Its A Cool Guy
 
 
 ### LEGAL CREDITS 
