@@ -9,9 +9,13 @@ UE5.3.2
 
 # Credits
 Tector-Help With Additives And Turn In Place
+
 TheBuff-Help With Some Stuff
+
 German's Project-Help With Some Stuff
+
 Dj-Andre-CharacterDirectior Variable
+
 Vortex-Help With Uefn Patch
 
 
