@@ -9,8 +9,7 @@ Its a Fortnite UE5 Remake for those people ho want's to remake fortnite and make
 yeah please if you use this project credit me with this
 "Original Template Creator Project164"
 
-# What Ue Version i have to use?
-UE5.3.2
+# UE5.3.2
 
 
 # Credits
@@ -45,3 +44,4 @@ I don't win any money from this project. It's just a practice project to improve
 
 ![](https://github.com/Titox122/Fortnite-UE5-Remake/blob/main/CryBabiesLMAO/Proof.png)
 bro this gatekeepers 💀💀💀
+# Please give credit if you use this project
