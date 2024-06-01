@@ -14,7 +14,9 @@ UE5.3.2
 
 
 # Credits
-Tector-Help With Additives And Turn In Place
+Tector-Help With Everything I Know About Fortnite
+
+ZyloxMods-Forttnite Materials Rip Project :https://github.com/zyloxmods/FortniteMaterialRIP
 
 TheBuff-Help With Some Stuff
 
@@ -24,7 +26,9 @@ Dj-Andre-Character Direction Variable
 
 Vortex-Help With Uefn Patch And Other Stuff
 
-Jaum-Its A Cool Guy
+Jaum-Its A Very Cool Guy
+
+Discord: Project164
 
 ### LEGAL CREDITS 
 Portions of the materials used are trademarks and/or copyrighted works of Epic Games, Inc. All rights reserved by Epic. This material is not official and is not endorsed by Epic.
