@@ -14,7 +14,9 @@ UE5.3.2
 
 
 # Credits
-Tector-Help With Everything I Know About Fortnite
+Tector-Help With Everything I Know About Fortnite 
+
+GmatrixGames And Tector: JsonAsAsset: https://github.com/GMatrixGames/JsonAsAsset
 
 ZyloxMods-Forttnite Materials Rip Project: https://github.com/zyloxmods/FortniteMaterialRIP
 
