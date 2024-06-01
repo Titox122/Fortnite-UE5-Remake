@@ -16,7 +16,7 @@ UE5.3.2
 # Credits
 Tector-Help With Everything I Know About Fortnite
 
-ZyloxMods-Forttnite Materials Rip Project :https://github.com/zyloxmods/FortniteMaterialRIP
+ZyloxMods-Forttnite Materials Rip Project: https://github.com/zyloxmods/FortniteMaterialRIP
 
 TheBuff-Help With Some Stuff
 
