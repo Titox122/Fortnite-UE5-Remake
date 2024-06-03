@@ -12,6 +12,8 @@ yeah please if you use this project credit me with this
 
 # UE5.3.2
 
+# We Have A Discord Server!
+https://discord.gg/5c4bQCRRPU
 
 # Credits
 Tector-Help With Everything I Know About Fortnite 
