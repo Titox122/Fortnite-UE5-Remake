@@ -1,7 +1,8 @@
 # Fortnite UE5 Remake
 
 ![](https://github.com/Titox122/Fortnite-UE5-Remake/blob/main/imagen_2024-04-01_200011449.png)
- 
+https://www.youtube.com/watch?v=pO7JLKdpTIM
+
 ### What Is This?
 Its a Fortnite UE5 Remake for those people ho want's to remake fortnite and make it the most accurate possible 
 
@@ -11,6 +12,8 @@ yeah please if you use this project credit me with this
 
 # UE5.3.2
 
+# We Have A Discord Server!
+https://discord.gg/5c4bQCRRPU
 
 # Credits
 Tector-Help With Everything I Know About Fortnite 
