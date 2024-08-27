@@ -14,7 +14,7 @@ yeah please if you use this project credit me with this
 anyway the version is ue5.3.2
 
 # We Have A Discord Server!
-https://discord.gg/5c4bQCRRPU
+https://discord.gg/UAWdhgsqxA
 
 # Credits
 Tector-Help With Everything I Know About Fortnite 
