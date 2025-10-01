@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=pO7JLKdpTIM
 
 ### What Is This?
-Its a Fortnite UE5 Remake for those people ho want's to remake fortnite and make it the most accurate possible 
+Its a Fortnite UE5 Remake for those people who want's to recreate fortnite and make it in the most accurate way possible 
 
 ### if i use this i have to add credits?
 yeah please if you use this project credit me with this
